@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LiveData-Singleton</string>
+    <string name="button_click">Click</string>
+</resources>
